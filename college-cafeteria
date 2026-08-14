@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Cafeteria Page</title>
+</head>
+<body>
+<style>
+body {background-color:lightgreen; 
+font-family: "Arial", sans serif;}
+</style>
+<h1 style="color:mediumseagreen; text-align:center; font-family: 'Brush Script MT",cursive;>College Cafeteria</h1>
+<h2 style="color:darkgreen; text-align:center; background-color:yellowgreen;">Order Tasty & Fresh Food!</h2>
+<center>
+<table border="1"style="width:500px; text-align:center;border-collapse:collapse;">
+
+<tr style="background-color:sienna;">
+<th>Sr.No</th>
+<th>Name</th>
+<th>Item</th>
+<th>Price</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Classic Bombay Sandwich</td>
+<td><img src="https://whatocook.com/wp-content/uploads/2026/01/Bombay-Grilled-Sandwich.png"
+     alt="Classic Bombay Sandwich"
+     style="width:100px;height:50px;"></td>
+<td>60/-</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Grilled Cheese Sandwich</td>
+<td><img src="https://th.bing.com/th/id/OIP.j8XrEglhywPtLDWDybCvQAHaD4?w=224&h=150&c=6&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Grilled Cheese Sandwich" style="width:100px;height:50px;"></td>
+<td>90/-</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Samosa Cheese Toast Sandwich</td>
+<td><img src="https://bing.com/th?id=OSK.9532d0f90b66f723ac4f09072d1ed716" alt="Samosa Cheese Toast Sandwich" style="width:100px;height:50px;"></td>
+<td>90/-</td>
+</tr>
+
+
+<tr>
+<td>4</td>
+<td>Spring Rolls</td>
+<td><img src="https://th.bing.com/th/id/OIP.zqUnGCyuQAwxmr7jLnV9wAHaE7?w=186&h=124&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Spring Rolls" style="width:100px;height:50px;"></td>
+<td>90/-</td>
+</tr>
+
+
+<tr>
+<td>5</td>
+<td>Paneer Noodles Cheese Frankie</td>
+<td><img src="https://th.bing.com/th/id/OIP._6OaCIz-lr9JERw7e20flQHaHa?w=166&h=180&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Paneer Noodles Frankie" style="width:100px;height:50px;"></td>
+<td>100/-</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Veg Kathi Roll</td>
+<td><img src="https://th.bing.com/th?q=Crispy+Chilli+Veg+Kathi+Roll&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.3&pid=InlineBlock&rm=3&ucfimg=1&mkt=en-US&cc=US&setlang=en&adlt=moderate&t=1&mw=247" alt="Veg Kathi Roll" style="width:100px;height:50px;"></td>
+<td>100/-</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Cheesecake</td>
+<td><img src="https://th.bing.com/th/id/OIP.ZoTR4WJPMbdlyWeo6wKDxAHaKf?w=186&h=265&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Cheesecake" style="width:100px;height:50px;"></td>
+<td>120/-</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Glazed Donuts</td>
+<td><img src="https://th.bing.com/th/id/OIP.tfwzlpDd6ORUA8xFn_jhxAHaLG?w=204&h=306&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" alt="Glazed Donuts" style="width:100px;height:50px;"></td>
+<td>140/-</td>
+</tr>
+
+</table>
+</center> 
+
+<h4 style="color:darkgreen; font-size:20px; font-weight:bold; text-align:center; background-color:yellowgreen;">Amazing Food & Chill Vibes!!!</h4>
+<a href="cafealert.html" target="blank";> Click Here For Something Special</a>
