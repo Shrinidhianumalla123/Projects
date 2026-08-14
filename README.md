@@ -31,10 +31,19 @@ A Python command-line task management application that allows users to add, view
 
 **Concepts Used:** Lists, dictionaries, loops, conditionals, and user input
 
+### 🍴 College Cafeteria Web Page
+A basic static college cafeteria webpage created using HTML and CSS, featuring a food menu, item images, prices, and a navigation link.
+
+**Technologies:** HTML, CSS
+
+**Concepts Used:** HTML tables, images, hyperlinks, inline CSS, text formatting, and page structure
+
 ## Skills Practiced
 
 - Python
 - C
+- HTML
+- CSS
 - Socket Programming
 - Basic Networking
 - Authentication & Password Security
